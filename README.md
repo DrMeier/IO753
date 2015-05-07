@@ -1,2 +1,3 @@
 # IO753
-Dr. Meiers homepage
+Dr. Meiers home
+http://drmeier.github.io/IO753/
