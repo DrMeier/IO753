@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>CSS3_skies</title>
+		<title>Dr. Meiers home</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600|Source+Code+Pro" rel="stylesheet" />
 		<!--[if lte IE 8]><script src="html5shiv.js" type="text/javascript"></script><![endif]-->
@@ -70,8 +70,8 @@
 				<div id="header" class="row">
 					<div class="4u">
 						<div class="transparent">
-							<h1><a href="index.html">CSS3<span class="header_colour">_skies</span></a></h1>
-							<h2>Simple. Contemporary. Website Template.</h2>
+							<h1><a href="index.html">Dr. <span class="header_colour">Meiers</span></a></h1>
+							<h2>fallen. angel. home.</h2>
 					    </div>
 					</div>
 					
@@ -176,9 +176,9 @@
 						<div id="sidebar">
 							<section class="12u">
 								<h3>Latest News</h3>
-								<h4>New Website Launched</h4>
-								<h5>February 1st, 2014</h5>
-								<p>2014 sees the redesign of our website. <a href="#">Read more</a></p>
+								<h4>Website Launched</h4>
+								<h5>Mai 7st, 2015</h5>
+								<p>nothing more. <a href="#">Read more</a></p>
 							</section>
 							<section class="12u">
 								<h3>Useful Links</h3>
